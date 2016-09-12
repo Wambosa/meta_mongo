@@ -1,0 +1,20 @@
+{
+  "name": "meta_mongo",
+  "version": "1.0.0",
+  "description": "a simple storage location for custom filesystem metadata",
+  "main": "index.js",
+  "repository": "https://github.com/Wambosa/meta_mongo",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Shon Diaz <shondiaz@gmail.com> http://shondiaz.com",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "fs-extra-promise": "^0.4.1",
+    "mongodb": "^2.2.9",
+    "ramda": "^0.22.1"
+  }
+}
