@@ -1,7 +1,7 @@
 {
   "name": "meta_mongo",
   "version": "1.0.0",
-  "description": "a simple storage location for custom filesystem metadata",
+  "description": "we need to retrieve a binary file at a later time using any custom metadata point",
   "main": "index.js",
   "repository": "https://github.com/Wambosa/meta_mongo",
   "scripts": {
